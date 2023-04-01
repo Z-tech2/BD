@@ -8,7 +8,7 @@
 * @website https://betterdiscord.app/theme/ClearVision
 */
 @import url("https://clearvision.gitlab.io/v6/main.css");
-@import url('https://fonts.googleapis.com/css2?family=Comic Sans');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
@@ -23,7 +23,7 @@
 --dnd-color: #FF0000FF;
 --streamig-color: #7245BFFF;
 --offline-color: #000000FF;
---main-font: 'Comic Sans';
+--main-font: 'Comic Sans MS', 'Comic Sans', cursive;
 --code-font: 'Consolas';
 --text-normal: #DEDEDEFF;
 --text-muted: #4B4E52FF;
@@ -101,7 +101,7 @@
 --rs-streaming-color: #3E2667FF;
 --rs-invisible-color: #747f8d;
 --rs-phone-visible: block;
---customFont: 'Comic Sans';
+--customFont: 'Comic Sans MS', 'Comic Sans', cursive;
 --columns: 2;
 --guildsize: 50;
 --guildgap: 2;
