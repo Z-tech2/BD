@@ -23,7 +23,7 @@
 --dnd-color: #FF0000FF;
 --streamig-color: #7245BFFF;
 --offline-color: #000000FF;
---main-font: 'Comic Sans MS', 'Comic Sans', cursive;
+--main-font: 'Roboto';
 --code-font: 'Consolas';
 --text-normal: #DEDEDEFF;
 --text-muted: #4B4E52FF;
@@ -101,7 +101,7 @@
 --rs-streaming-color: #3E2667FF;
 --rs-invisible-color: #747f8d;
 --rs-phone-visible: block;
---customFont: 'Comic Sans MS', 'Comic Sans', cursive;
+--customFont: 'Roboto';
 --columns: 2;
 --guildsize: 50;
 --guildgap: 2;
