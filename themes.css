@@ -7,7 +7,7 @@
 * @Source https://github.com/ClearVision/ClearVision-v6
 * @website https://betterdiscord.app/theme/ClearVision
 */
-/**@import url("https://clearvision.gitlab.io/v6/main.css");
+@import url("https://clearvision.gitlab.io/v6/main.css");
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
@@ -107,4 +107,3 @@
 --guildgap: 2;
 --aligndms: 0;
 }
-*/
