@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Discord Theme Changer
-// @author @Theguy
+// @author John Ronnix AKA The Ronnixinator
 // @description Discord Theme Changer like better discord theme
 // @version 1.0.0
 // @license CC-BY-SA 4.0
